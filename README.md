@@ -15,3 +15,5 @@ As stated above, the main purpose is to provide simple example.
 Deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+--- A copyright notice ---
