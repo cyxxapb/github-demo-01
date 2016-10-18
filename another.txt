@@ -5,9 +5,9 @@ one more line
 [02] 9345
 [03] 2
 
-Step on         67
-your keyboard   43
-while you're    89
+[a-01]  Step on 		67
+[a-02]  your keyboard 	43
+[a-03]  while you're 	89
 gaming and 
 then turn 
 in a circle 
