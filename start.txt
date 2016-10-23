@@ -25,6 +25,9 @@ Peer out window and door, chatter at birds and snakes, lure them to mouth. Fall 
 [p-02] useful
 [p-03] changes
 
+[t-100] Carrot cake
+[t-101] halvah cupcake
+
 Rub face on owner
 spit up on light gray carpet
 instead of adjacent linoleum
