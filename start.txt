@@ -30,6 +30,10 @@ spit up on light gray carpet
 instead of adjacent linoleum
 but run in circles
 
+=== upd 01 from dev-other-2
+Pudding pie
+chocolate cake
+
 [numbers] 453
 [numbers] 24
 [numbers] 5436
